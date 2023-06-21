@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="321mm"
+   height="210mm"
+   viewBox="0 0 321 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="homepage.svg"
+   inkscape:export-filename="\\10.0.0.105\storage\temp\homepage\homepage.png"
+   inkscape:export-xdpi="86.592262"
+   inkscape:export-ydpi="86.592262"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="755.89715"
+     inkscape:cy="349.31075"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="1912"
+     inkscape:window-y="101"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g68063"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-left="2"
+     width="298mm"
+     units="px">
+    <sodipodi:guide
+       position="146.63599,193.22384"
+       orientation="0,-1"
+       id="guide68073" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="205.90778"
+       y="127.86209"
+       width="396.52542"
+       height="74.097519"
+       id="rect49791" />
+    <rect
+       x="212.54997"
+       y="130.35291"
+       width="389.88324"
+       height="71.606697"
+       id="rect24513" />
+    <rect
+       x="200.19833"
+       y="83.36705"
+       width="439.83081"
+       height="38.490566"
+       id="rect3253" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1669"
+       x="-0.33990932"
+       y="-0.35580148"
+       width="1.6798186"
+       height="1.711603">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="25.33047"
+         id="feGaussianBlur1671" />
+    </filter>
+    <rect
+       x="200.19833"
+       y="83.36705"
+       width="393.65894"
+       height="74.779579"
+       id="rect3253-2" />
+    <rect
+       x="200.19833"
+       y="83.36705"
+       width="439.83081"
+       height="38.490566"
+       id="rect68065" />
+    <rect
+       x="200.19833"
+       y="83.36705"
+       width="393.65894"
+       height="74.779579"
+       id="rect68067" />
+    <rect
+       x="212.54997"
+       y="130.35291"
+       width="389.88324"
+       height="71.606697"
+       id="rect68069" />
+    <rect
+       x="205.90778"
+       y="127.86209"
+       width="396.52542"
+       height="74.097519"
+       id="rect68071" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="bg color"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#1f1a2d;fill-opacity:0.996078;stroke-width:0.100101;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1547"
+       width="322.04568"
+       height="210.88942"
+       x="0.43935296"
+       y="2.4439251e-08"
+       ry="6.899415" />
+  </g>
+  <g
+     inkscape:label="bg image"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;mix-blend-mode:normal;filter:url(#filter1669)"
+     sodipodi:insensitive="true">
+    <image
+       width="178.85101"
+       height="170.86249"
+       preserveAspectRatio="none"
+       xlink:href="logo-lnr.png"
+       id="image1773"
+       x="124.6138"
+       y="16.776161"
+       inkscape:export-filename="\\10.0.0.105\storage\temp\homepage\image1773.png"
+       inkscape:export-xdpi="145.38708"
+       inkscape:export-ydpi="145.38708" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="card"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.299465;stroke-width:0.168182;stroke-linecap:round;stroke-linejoin:round"
+       id="rect869"
+       width="143.30331"
+       height="36.348328"
+       x="15.533473"
+       y="16.776161"
+       ry="3.8367703" />
+    <image
+       width="27.960253"
+       height="27.960253"
+       preserveAspectRatio="none"
+       xlink:href="call.png"
+       id="image1681"
+       x="19.727512"
+       y="20.9702" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.64341751,0.1784594)"
+       id="text3251"
+       style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3253);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+         x="200.19922"
+         y="110.05665"
+         id="tspan20775"><tspan
+           style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+           id="tspan20773">Телефонный справочник</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.71570201,11.984747)"
+       id="text3251-9"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3253-2);fill:#ffffff;fill-opacity:0.695187;stroke:none"><tspan
+         x="200.19922"
+         y="105.20405"
+         id="tspan20779"><tspan
+           style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan20777">Номера телефонов сотрудников </tspan></tspan><tspan
+         x="200.19922"
+         y="135.80653"
+         id="tspan20783"><tspan
+           style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan20781">министерства</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text24511"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24513);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text49789"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect49791);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g68063"
+     inkscape:label="Копия card"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:0.299465;stroke-width:0.159487;stroke-linecap:round;stroke-linejoin:round"
+       id="rect68043"
+       width="128.86856"
+       height="36.348328"
+       x="174.59625"
+       y="16.776161"
+       ry="3.8367703" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,159.70618,0.1784605)"
+       id="text68049"
+       style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect68065);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+         x="200.19922"
+         y="110.05665"
+         id="tspan20787"><tspan
+           style="font-weight:600;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+           id="tspan20785">Дни рождения</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,159.77847,11.984748)"
+       id="text68053"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect68067);fill:#ffffff;fill-opacity:0.695187;stroke:none"><tspan
+         x="200.19922"
+         y="105.20405"
+         id="tspan20791"><tspan
+           style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan20789">Список дней рождения </tspan></tspan><tspan
+         x="200.19922"
+         y="135.80653"
+         id="tspan20795"><tspan
+           style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan20793">сотрудников министерства</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text68057"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect68069);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text68061"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect68071);fill:#000000;fill-opacity:1;stroke:none" />
+    <image
+       width="27.960253"
+       height="27.960253"
+       preserveAspectRatio="none"
+       xlink:href="cake.png"
+       id="image69042"
+       x="179.75226"
+       y="20.9702" />
+  </g>
+</svg>
